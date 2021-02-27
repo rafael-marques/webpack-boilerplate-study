@@ -1,0 +1,12 @@
+// Your variable overrides
+$body-bg: #000;
+$body-color: #111;
+
+$theme-colors: (
+  "primary": #74d900,
+  "danger": #4b0f0c
+);
+
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
